@@ -1,0 +1,18 @@
+.container{
+    background-color: #6bd7f0;
+    width: 70%;
+    padding: 10px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.heading{
+    text-underline-position: below;
+}
+
+.result{
+    margin-left: 80px;
+}
+
+#btn{
+    margin-left: 350px;
+}

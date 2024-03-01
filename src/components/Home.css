@@ -1,0 +1,63 @@
+/* *{
+    margin: 0px;
+    padding: 0;
+    background-image: url("../assets/home-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+#background{
+    margin: 0;
+    padding: 0;
+    background-image: url("../assets/home-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.homeContainer{
+    width: 250px;
+    padding: 10px;
+    height: 400px;
+    margin: 150px;
+    border: 5px solid rgb(245, 244, 244);
+    color: antiquewhite;
+    background-color: rgba(183, 210, 245, 0.7);
+}
+.createBtn{
+    margin: 28px;
+    width: 150px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(5, 171, 5);
+    text-align: center;
+   border-radius: 8px;
+}
+
+#playBtn{
+    margin: 28px;
+    width: 150px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(5, 171, 5);
+    text-align: center;
+   border-radius: 8px;
+}
+
+
+.authBtns{
+   margin: 28px;
+    width: 150px;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    background-color: rgb(77, 77, 241);
+    height: 40px; 
+    justify-content: center;
+    border-radius: 10px;
+}
+
+ .btn{
+    color: white;
+}
